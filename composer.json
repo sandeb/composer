@@ -13,8 +13,7 @@
             "App\\": "src/"
         }
     },
-
     "require": {
-        "swiftmailer/swiftmailer": "^6.2"
+        "ehime/hello-world": "^1.0"
     }
 }
